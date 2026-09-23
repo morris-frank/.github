@@ -27,6 +27,11 @@ Please find me on LinkedIn for a more detailed description of my full work exper
 <td>zsh hook that tells you when a command already has an alias</td>
 </tr>
 <tr>
+<td><img src="https://raw.githubusercontent.com/morris-frank/maurice-frank.com/main/brand/icon/icon-notion-slides-128.png" width="40" alt=""></td>
+<td><a href="https://github.com/morris-frank/notion-slides"><b>notion-slides</b></a></td>
+<td>Notion-style Markdown into a themed PowerPoint deck</td>
+</tr>
+<tr>
 <td><img src="https://raw.githubusercontent.com/morris-frank/maurice-frank.com/main/brand/icon/icon-chrome-time-clock-128.png" width="40" alt=""></td>
 <td><a href="https://github.com/morris-frank/chrome-time-clock"><b>chrome-time-clock</b></a></td>
 <td>infers working hours from Chrome history</td>
@@ -46,9 +51,14 @@ Please find me on LinkedIn for a more detailed description of my full work exper
 <td><a href="https://github.com/morris-frank/QLGIS"><b>QLGIS</b></a></td>
 <td>macOS Quick Look for PMTiles, GeoTIFF and GeoJSON</td>
 </tr>
+<tr>
+<td></td>
+<td><a href="https://github.com/morris-frank/maurice-tools"><b>maurice-tools</b></a></td>
+<td>homebrew tap for family and friends</td>
+</tr>
 </table>
 
-**reflective**
+**web apps & websites**
 
 <table>
 <tr>
@@ -72,8 +82,13 @@ Please find me on LinkedIn for a more detailed description of my full work exper
 <td>a milonga in Buenos Aires, edited through a git-backed CMS</td>
 </tr>
 <tr>
-<td></td>
-<td><a href="https://github.com/morris-frank/maurice-tools"><b>maurice-tools</b></a></td>
-<td>homebrew tap for family and friends</td>
+<td><img src="https://raw.githubusercontent.com/morris-frank/maurice-frank.com/main/brand/icon/icon-collegium-academicum-128.png" width="40" alt=""></td>
+<td><a href="https://collegiumacademicum.de"><b>Collegium Academicum</b></a></td>
+<td>platform for a self-governed timber-built student housing project in Heidelberg</td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/morris-frank/maurice-frank.com/main/brand/icon/icon-ackersyndikat-128.png" width="40" alt=""></td>
+<td><a href="https://ackersyndikat.org"><b>Ackersyndikat</b></a></td>
+<td>web presence for a solidarity network securing land commons for farming</td>
 </tr>
 </table>
