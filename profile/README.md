@@ -22,7 +22,7 @@ Please find me on LinkedIn for a more detailed description of my full work exper
 <td>preview and compile Typst in Obsidian; export notes to PDF</td>
 </tr>
 <tr>
-<td></td>
+<td><img src="https://raw.githubusercontent.com/morris-frank/maurice-frank.com/main/brand/icon/icon-obsidian-notion-sync-128.png" width="40" alt=""></td>
 <td><a href="https://github.com/morris-frank/obsidian-notion-sync"><b>obsidian-notion-sync</b></a></td>
 <td>two-way sync between opted-in Obsidian notes and a Notion data source</td>
 </tr>
