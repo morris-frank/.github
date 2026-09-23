@@ -7,3 +7,68 @@ I enjoy building software that enables people in their strenghts. I want to unde
 Please find me on LinkedIn for a more detailed description of my full work experience, education and certification. You can get in touch with me by email at maurice@mfr.fyi.
 
 <br clear="right">
+
+**tools**
+
+<table>
+<tr>
+<td><img src="https://raw.githubusercontent.com/morris-frank/maurice-frank.com/main/brand/icon/icon-aiusage-128.png" width="40" alt=""></td>
+<td><a href="https://github.com/morris-frank/aiusage"><b>aiusage</b></a></td>
+<td>LLM API spend by user, key, model and workspace, from the platforms' billing APIs</td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/morris-frank/maurice-frank.com/main/brand/icon/icon-obsidian-typst-128.png" width="40" alt=""></td>
+<td><a href="https://github.com/morris-frank/obsidian-typst"><b>obsidian-typst</b></a></td>
+<td>preview and compile Typst in Obsidian; export notes to PDF</td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/morris-frank/maurice-frank.com/main/brand/icon/icon-chrome-time-clock-128.png" width="40" alt=""></td>
+<td><a href="https://github.com/morris-frank/chrome-time-clock"><b>chrome-time-clock</b></a></td>
+<td>infers working hours from Chrome history</td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/morris-frank/maurice-frank.com/main/brand/icon/icon-ask-maurice-128.png" width="40" alt=""></td>
+<td><a href="https://github.com/morris-frank/ask-maurice"><b>ask-maurice</b></a></td>
+<td>Slack doppelgänger grounded in the Soilytix vault</td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/morris-frank/maurice-frank.com/main/brand/icon/icon-agent-plugin-template-128.png" width="40" alt=""></td>
+<td><a href="https://github.com/morris-frank/agent-plugin-template"><b>agent-plugin-template</b></a></td>
+<td>one repo, plugins for Claude, Codex and Cursor</td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/morris-frank/maurice-frank.com/main/brand/icon/icon-qlgis-128.png" width="40" alt=""></td>
+<td><a href="https://github.com/morris-frank/QLGIS"><b>QLGIS</b></a></td>
+<td>macOS Quick Look for PMTiles, GeoTIFF and GeoJSON</td>
+</tr>
+</table>
+
+**reflective**
+
+<table>
+<tr>
+<td><img src="https://raw.githubusercontent.com/morris-frank/maurice-frank.com/main/brand/icon/icon-dna-128.png" width="40" alt=""></td>
+<td><a href="https://github.com/morris-frank/dna"><b>dna</b></a></td>
+<td>a genome, unfurling itself exactly once; base by base</td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/morris-frank/maurice-frank.com/main/brand/icon/icon-maurice-frank-512.png" width="40" alt=""></td>
+<td><a href="https://github.com/morris-frank/maurice-frank.com"><b>maurice-frank.com</b></a></td>
+<td>website, playground and writing</td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/morris-frank/maurice-frank.com/main/brand/icon/icon-saraikeestra-128.png" width="40" alt=""></td>
+<td><a href="https://github.com/morris-frank/saraikeestra.com"><b>sarai-keestra.com</b></a></td>
+<td>academic site, generated from JSON and BibTeX</td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/morris-frank/maurice-frank.com/main/brand/icon/icon-abrazodelmigrante.svg" width="40" alt=""></td>
+<td><a href="https://github.com/morris-frank/abrazodelmigrante"><b>abrazodelmigrante</b></a></td>
+<td>a milonga in Buenos Aires, edited through a git-backed CMS</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="https://github.com/morris-frank/maurice-tools"><b>maurice-tools</b></a></td>
+<td>homebrew tap for family and friends</td>
+</tr>
+</table>
