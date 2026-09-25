@@ -52,6 +52,11 @@ Please find me on LinkedIn for a more detailed description of my full work exper
 <td>macOS Quick Look for PMTiles, GeoTIFF and GeoJSON</td>
 </tr>
 <tr>
+<td><img src="https://raw.githubusercontent.com/morris-frank/maurice-frank.com/main/brand/icon/icon-dash-prometheus-128.png" width="40" alt=""></td>
+<td><a href="https://github.com/morris-frank/dash-prometheus"><b>dash-prometheus</b></a></td>
+<td>how often each Dash callback runs, and how long it takes</td>
+</tr>
+<tr>
 <td></td>
 <td><a href="https://github.com/morris-frank/maurice-tools"><b>maurice-tools</b></a></td>
 <td>homebrew tap for family and friends</td>
