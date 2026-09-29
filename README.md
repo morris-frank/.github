@@ -58,6 +58,11 @@ Please find me on LinkedIn for a more detailed description of my full work exper
 </tr>
 <tr>
 <td></td>
+<td><a href="https://github.com/morris-frank/wordmark"><b>wordmark</b></a></td>
+<td>flip through every TAAG font in the terminal, recoloured from your own palette · <a href="https://pypi.org/project/wordmark/">PyPI</a></td>
+</tr>
+<tr>
+<td></td>
 <td><a href="https://github.com/morris-frank/maurice-tools"><b>maurice-tools</b></a></td>
 <td>homebrew tap for family and friends</td>
 </tr>
