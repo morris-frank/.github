@@ -22,11 +22,6 @@ Please find me on LinkedIn for a more detailed description of my full work exper
 <td>preview and compile Typst in Obsidian; export notes to PDF</td>
 </tr>
 <tr>
-<td><img src="https://raw.githubusercontent.com/morris-frank/maurice-frank.com/main/brand/icon/icon-auto-alias-128.png" width="40" alt=""></td>
-<td><a href="https://github.com/morris-frank/auto-alias"><b>auto-alias</b></a></td>
-<td>zsh hook that tells you when a command already has an alias</td>
-</tr>
-<tr>
 <td><img src="https://raw.githubusercontent.com/morris-frank/maurice-frank.com/main/brand/icon/icon-notion-slides-128.png" width="40" alt=""></td>
 <td><a href="https://github.com/morris-frank/notion-slides"><b>notion-slides</b></a></td>
 <td>Notion-style Markdown into a themed PowerPoint deck</td>
@@ -60,11 +55,6 @@ Please find me on LinkedIn for a more detailed description of my full work exper
 <td></td>
 <td><a href="https://github.com/morris-frank/wordmark"><b>wordmark</b></a></td>
 <td>flip through every TAAG font in the terminal, recoloured from your own palette · <a href="https://pypi.org/project/wordmark/">PyPI</a></td>
-</tr>
-<tr>
-<td></td>
-<td><a href="https://github.com/morris-frank/maurice-tools"><b>maurice-tools</b></a></td>
-<td>homebrew tap for family and friends</td>
 </tr>
 </table>
 
